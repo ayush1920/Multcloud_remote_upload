@@ -17,10 +17,12 @@ Read the respective readme files of new and old version to understand various fu
 
 ## FAQ
 
-**Why two versions are there ?**
+**Why two versions are there ?**<br>
+
 The site has changed its code and UI which urged me to write new script. The new js code uses AES encryption to trasfer data. Old version of the site is also available so you can use both the scripts as of now.
 
-<br>**Why only remote upload with GDrive is supported?**
+**Why only remote upload with GDrive is supported?**<br>
+
 As per my requirement, the only task I do is, to fetch slow downloading files to my google Drive. You can pretty much change the request code by using suitable parameter while sending drive data.  The encrypted response comming from from the website can by easily seen in any browser using developer Tools -> Network Tab. The file `decode_response.py` can decode those encrypted string. **Any contribution to the project is welcomed.**
 
 *Multcloud images and graphics used in the used in the repo belong to their respective owners.*
