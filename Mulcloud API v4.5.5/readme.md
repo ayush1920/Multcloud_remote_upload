@@ -72,6 +72,6 @@ Clears all 'completed' and 'failed' task present in the list of all the account.
 
 ![clear_all example](../images/clear_all_old.png)
 
-<br>*Currently the script uses text file to store data. For a more rhobust scrpit use the new version.*
+<br>*Currently the script uses text file to store data. For a more robust scrpit use the new version.*
 
 *Multcloud images and graphics used in the used in the repo belong to their respective owners.*
