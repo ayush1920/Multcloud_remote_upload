@@ -1,6 +1,6 @@
 # Multcloud remote upload API (Gdrive) [v4.5.5]
 
-![Alt text](./images/multcloud.png)
+![Alt text](../images/multcloud.png)
 
 ![A test image](https://img.shields.io/static/v1?label=status&message=completed&logo=github&color=F8523B) ![GitHub issues](https://img.shields.io/github/issues/ayush1920/Multcloud_remote_upload)
 
@@ -73,3 +73,5 @@ Clears all 'completed' and 'failed' task present in the list of all the account.
 ![clear_all example](../images/clear_all_old.png)
 
 <br>*Currently the script uses text file to store data. For a more rhobust scrpit use the new version.*
+
+*Multcloud images and graphics used in the used in the repo belong to their respective owners.*
