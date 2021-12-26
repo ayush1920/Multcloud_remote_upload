@@ -1,5 +1,4 @@
-requests==2.21.0
-pkcs7==0.1.2
-SQLAlchemy==1.3.23
-Pillow==8.3.2
-pycryptodome==3.10.4
+Pillow==8.4.0
+pycryptodome==3.12.0
+requests==2.26.0
+SQLAlchemy==1.4.29
