@@ -17,7 +17,7 @@ Read the respective readme files of new and old version to understand various fu
 
 ## FAQ
 
-**Why two versions are there ?**<br>
+**Why are there two versions?**<br>
 
 The site has changed its code and UI which urged me to write new script. The new js code uses AES encryption to trasfer data. Old version of the site is also available so you can use both the scripts as of now.
 

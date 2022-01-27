@@ -114,6 +114,7 @@ def login(_id = None, command_mode = False):
     
     if result:
         result.cookies = cookies
+        result.password = password
         result.data = data
         if not drive_data:
             drive_data = result.drive_data

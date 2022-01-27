@@ -73,4 +73,7 @@ Deletes saved account.
 
 ![Deletion example](../images/delete_user_new.png)
 
+### Update Password
+Use the *switch_account* command to enter the username and password. The script will update the password if username already exists.
+
 *Multcloud images and graphics used in the used in the repo belong to their respective owners.*
